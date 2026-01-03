@@ -1,4 +1,4 @@
-package com.plcoding.bookpedia
+package com.plcoding.goodreads
 
 import platform.UIKit.UIDevice
 

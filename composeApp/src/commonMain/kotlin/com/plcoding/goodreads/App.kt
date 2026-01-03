@@ -1,4 +1,4 @@
-package com.plcoding.bookpedia
+package com.plcoding.goodreads
 
 import androidx.compose.animation.AnimatedVisibility
 import androidx.compose.foundation.Image

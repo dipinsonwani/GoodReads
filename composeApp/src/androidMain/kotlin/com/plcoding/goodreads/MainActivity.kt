@@ -1,4 +1,4 @@
-package com.plcoding.bookpedia
+package com.plcoding.goodreads
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity

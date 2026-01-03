@@ -87,7 +87,7 @@ kotlin {
 }
 
 android {
-    namespace = "com.plcoding.bookpedia"
+    namespace = "com.plcoding.goodreads"
     compileSdk = libs.versions.android.compileSdk.get().toInt()
 
     defaultConfig {

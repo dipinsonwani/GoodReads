@@ -1,4 +1,4 @@
-package com.plcoding.bookpedia
+package com.plcoding.goodreads
 
 import androidx.compose.ui.window.Window
 import androidx.compose.ui.window.application

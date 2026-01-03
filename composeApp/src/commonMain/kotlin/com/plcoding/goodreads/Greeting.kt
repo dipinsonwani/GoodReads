@@ -1,4 +1,4 @@
-package com.plcoding.bookpedia
+package com.plcoding.goodreads
 
 class Greeting {
     private val platform = getPlatform()
